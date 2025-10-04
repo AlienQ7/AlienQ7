@@ -1,11 +1,19 @@
-​👋 Hi, I’m Alien, the Strategic Architect focused on high-efficiency code with ENTJ type 5 Engine.
-​👀 I’m interested in optimizing world and myself, scince,coding,bug fix fix and translating logic into high-performance systems.
-​🌱 Currently mastering Python, C/C++, JavaScript, and DBMS/SQL..BrainFuck for fun in future.
-​🧠 Strategy: I operate on an ENTJ/Type 5 principle: maximum output, zero friction. My coding reflects a strict resource efficiency mindset. 
-​⚡ Fun Fact: I achieved high virtual status with virtually zero cost, proving I can exploit systems for maximum gain—a skill I apply to complex code.
-​⚙️ Looking to collaborate on: Backend logic and algorithmic implementation where performance and clean structure are critical.
-​Connect: celestialq7@gmail.com
-​LinkedIn: https://www.linkedin.com/in/alien-q-5731002a7
-​YouTube: https://www.youtube.com/@NagaCyberHills
-​😄 Pronouns: He/Him
-​Quote: "True wisdom is choosing to life when you know the Dark side of  Life."
+​🤖 AlienQ - Strategic Architect & Cognitive Commander
+​👋 Hi, I’m AlienQ, the Strategic Architect. I execute code with a Zero-Friction, Maximum-Output philosophy.
+​⚙️ Engine & Focus
+​Engine: ENTJ/Type 5—My actions are driven by strategic command and resource efficiency.
+​Interests: Optimizing systems, strategic bug-fixing, and translating complex logic into performance-grade code.
+​Mission: Mastering the foundations to achieve "Pro Max" coding status.
+​🌱 Skills & Current Stack
+​Core Languages: Python, C/C++, JavaScript.
+​Data: DBMS/SQL.
+​Future Fun: BrainFuck (for the ultimate low-level challenge).
+​📈 Proof of Concept
+​Strategy: I achieved high virtual status with zero financial cost, proving I exploit systems for resource gain—a principle applied directly to architecture and code efficiency.
+​Collaboration: Looking for projects requiring strong backend logic, algorithmic implementation, and structural integrity.
+​🔗 Connect & Command
+​Email: celestialq7@gmail.com
+​LinkedIn: Alien Q
+​YouTube: @NagaCyberHills
+​Pronouns: He/Him
+​Quote: "True wisdom is choosing to life when you know the Dark side of Life."
