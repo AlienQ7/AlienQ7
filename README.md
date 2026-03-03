@@ -1,17 +1,17 @@
 <h1 align="center">Name: Alien Q</h1>
 <h3 align="center">I am here to code my world!!</h3>
+<div style="display:flex; align-items:center; gap:20px;">
+  <div>
+    🔭 I’m currently working on <strong>Iot Project</strong>
+  </div>
 
-- 🔭 I’m currently working on <strong>Iot Project</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="asset/1.webp" width="120"/>&nbsp;
-  <img src="asset/2.webp" width="120"/>&nbsp;
-  <img src="asset/3.webp" width="120"/>
-
+  <div>
+    <img src="asset/1.webp" width="120"/>
+    <img src="asset/2.webp" width="120"/>
+    <img src="asset/3.webp" width="120"/>
+  </div>
+</div>
+  
 - 🌱 I’m currently learning **Python,C,C++,javascript,Java,Bootstrap,devops and BrainFuck.**
 
 - 📫 How to reach me **celes....@gma......**
