@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <strong>Iot Project</strong>
 
-- 🌱 I’m currently learning **Python,C,C++,javascript,Java,Bootstrap,devops and BrainFuck.**
+- 🌱 I’m currently learning **C,C++,javascript,Java,Bootstrap,devops and BrainFuck.**
 
 - 📫 How to reach me **celes####@gma####**
 
@@ -21,6 +21,7 @@
 <img src="asset/html5.svg"  alt="html5" width="40" height="40"/> </a> &nbsp; 
 <img src="asset/oracle.svg" alt="oracle" width="40" height="40"/> </a> &nbsp;
 <img src="asset/python.svg" alt="python" width="40" height="40"/> </a> &nbsp;
+<img src="asset/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/> </a> &nbsp;
 </p>
 <h3 align="left">Languages and Tool installing at 47Kbs/s speed now:</h3>
 <p align="left">
