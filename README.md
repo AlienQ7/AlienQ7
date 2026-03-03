@@ -1,18 +1,18 @@
 <h1 align="center">Name: Alien Q</h1>
-<h3 align="center">I am here to code my world!!</h3>
+<h3 align="center">I am here to coding my world!!</h3>
+<h3 align="center">Beggar Hacker</h3>
 
 - 🔭 I’m currently working on <strong>Iot Project</strong>
 
-- 🌱 I’m currently learning **C,C++,javascript,Java,Bootstrap,devops and BrainFuck.**
+- 🌱 I’m currently **Trying to be Human**
 
 - 📫 How to reach me **celes####@gma####**
 
-- ⚡ Fun fact **I think I am Alien** <img align="right" src="asset/1.webp" width="110"/>
-                                     <img align="right" src="asset/2.webp" width="110"/>
-                                     <img align="right" src="asset/3.webp" width="110"/>
-                                
+- ⚡ Fun fact **I think I am Alien** <img align="right" src="asset/1.webp" width="110"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                                    
 - 👤 Personallity => **ENTJ Type 5**
-<h3 align="left">Connect with me: 1252##...#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beggar Hacker</h3>
+  
+<h3 align="left">Connect with me: 1252##...#</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tool I Know:</h3>
