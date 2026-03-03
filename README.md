@@ -1,4 +1,4 @@
-<h1 align="center">Rank: Alien Coder</h1>
+<h1 align="center">Name: Alien Q</h1>
 <h3 align="center">I am here to code my world!!</h3>
 
 - 🔭 I’m currently working on **Iot Project**
@@ -8,9 +8,9 @@
 - 📫 How to reach me **celes....@gma......**
 
 - ⚡ Fun fact **I think I am Alien**
-- &#128222 ENTJ Type 5
+- 👤 Personallity => **ENTJ Type 5**
 
-<h3 align="left">Connect with me: 7640.....</h3>
+<h3 align="left">Connect with me: 1252.....</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tool I Know:</h3>
